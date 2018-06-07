@@ -1,0 +1,447 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"keep",
+				"keep"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"bo",
+				"border-width"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_assoc"
+			],
+			[
+				"quer",
+				"mysql_query"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"b",
+				"border-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"mysql_r",
+				"mysql_real_escape_string"
+			],
+			[
+				"mysqli_s",
+				"mysqli_slave_query"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"tmp",
+				"tmp_image"
+			],
+			[
+				"mysql_c",
+				"mysql_connect"
+			],
+			[
+				"lastn",
+				"lastname"
+			],
+			[
+				"password",
+				"password"
+			],
+			[
+				"email",
+				"email"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"e",
+				"elseif\telseif …"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"l",
+				"list-style"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"gr",
+				"grid_4"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"g",
+				"grid_4"
+			],
+			[
+				"d",
+				"direction"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"id",
+				"id\tAttr"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"border-",
+				"border-radius"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xamp/htdocs/CodeIgniter-3.1.5/application/config/config.php",
+		"/C/xamp/htdocs/wordpress/wp-includes/Requests/Transport/cURL.php",
+		"/C/xamp/htdocs/wordpress/wp-config.php",
+		"/C/xamp/htdocs/wordpress/wp-config-sample.php",
+		"/C/xamp/htdocs/login Registration/start",
+		"/C/xamp/htdocs/haytick.html",
+		"/C/xamp/htdocs/css/haytick.css",
+		"/C/xamp/htdocs/css/forum.css",
+		"/C/xamp/htdocs/forum.html",
+		"/C/xamp/phpMyAdmin/config.inc.php",
+		"/C/Users/AYOBAMI/AppData/Roaming/Microsoft/Windows/Recent/index.php.lnk",
+		"/C/Users/AYOBAMI/Pictures/Downloads/index.php",
+		"/C/Users/AYOBAMI/ISHAAN",
+		"/C/xamp/htdocs/index.php",
+		"/C/Users/AYOBAMI/clc.php",
+		"/C/Users/AYOBAMI/htm/port1.htm",
+		"/C/Users/AYOBAMI/htm/style/port1.css",
+		"/C/Users/AYOBAMI/htm/notebook/Read up the cpe 301 and download all the neccessar",
+		"/C/Users/AYOBAMI/htm/style/forum.css",
+		"/C/Users/AYOBAMI/htm/ffx.html",
+		"/C/Users/AYOBAMI/htm/style/haytick.css",
+		"/C/Users/AYOBAMI/htm/forum.html",
+		"/C/Users/AYOBAMI/htm/haytick.html",
+		"/C/Users/AYOBAMI/htm/bolla.txt",
+		"/C/Users/AYOBAMI/htm/oau1.html",
+		"/C/Users/AYOBAMI/htm/style/oau1.css",
+		"/C/Users/AYOBAMI/htm/learning.htm",
+		"/C/Users/AYOBAMI/htm/xent.html",
+		"/C/Users/AYOBAMI/htm/fragment.htm",
+		"/C/Users/AYOBAMI/htm/style/style.css",
+		"/C/Users/AYOBAMI/htm/style/style1.css",
+		"/C/Users/AYOBAMI/htm/dis.htm",
+		"/C/Program Files/Sublime Text 3/sublime_text.exe",
+		"/C/Users/AYOBAMI/new/style.css",
+		"/C/Users/AYOBAMI/new/starting.htm",
+		"/C/Users/AYOBAMI/new/begin.html",
+		"/C/Users/AYOBAMI/Pictures/Desktop/Computer.lnk",
+		"/C/Users/AYOBAMI/htm/gudur.html",
+		"/C/Users/AYOBAMI/htm/gudu/gudu.html"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"grid_6",
+			">\n",
+			"gudur"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "test.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
